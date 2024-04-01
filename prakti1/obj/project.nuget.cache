@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5SNlr0iE4aTWZa0KdSYTcrWylKiyD3AlH5QtaXV5cjS4x9WVml8MYAaRp2urWKZ/lMDsxO0MzHuaSYM73nYrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti1\\prakti1\\cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talya\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\talya\\.nuget\\packages\\system.commandline.namingconventionbinder\\2.0.0-beta4.22272.1\\system.commandline.namingconventionbinder.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
